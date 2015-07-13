@@ -1,0 +1,16 @@
+{
+  "name": "mock-server",
+  "version": "1.0.0",
+  "description": "Registers mock data for a deepstream server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "deepstream.io-client-js": "^0.2.15",
+    "express": "^4.13.1"
+  }
+}
